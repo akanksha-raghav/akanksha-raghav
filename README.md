@@ -1,6 +1,6 @@
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-Hi!👋<br />
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/> </p>
+Hi!👋<br /><br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
 ⚡ Fun fact: I have a secret collection of old coins. <br />
