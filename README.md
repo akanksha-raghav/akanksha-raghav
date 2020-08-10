@@ -3,7 +3,7 @@ Hi!👋 I am Akanksha.<br /><br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
-⚡ Fun fact: I have a secret collection of old coins. <br />
+⚡ Fun fact: I have a secret collection of ancient coins. <br />
  📫Connect with me here:<br />
  <br />
  <p>
