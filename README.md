@@ -1,6 +1,6 @@
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-Hi!👋 I am Akanksha Raghav.<br>A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br /><br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
+Hi!👋 I am Akanksha Raghav.<br>A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br /><br>
 Its well said that:
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
