@@ -31,4 +31,4 @@ Cheers!
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&layout=compact&hide=html" alt="akanksha-raghav" /></p>
-[![Akanksha Raghav's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-raghav)](https://github.com/akanksha-raghav/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" /></p>
