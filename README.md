@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
 Hi!👋 I am Akanksha Raghav.<br>A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br /><br>
