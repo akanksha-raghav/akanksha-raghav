@@ -20,6 +20,9 @@ Its well said that:
  <a href="https://medium.com/@akanksharaghav">
     <img src="https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium">
   </a>
+ <a href="https://dev.to/akanksha15">
+    <img src="https://img.shields.io/badge/akanksha15-30302f?style=flat&logo=dev.to">
+  </a>
 </p>
 
 Cheers!
@@ -27,5 +30,5 @@ Cheers!
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" /></p>
 [![Akanksha Raghav's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-raghav)](https://github.com/akanksha-raghav/github-readme-stats)
