@@ -4,8 +4,8 @@
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
 Hi!👋 I am Akanksha Raghav.<br>
-🎓 I’m a junior pursuing my bachelor's in Computer Science & Engineering.
-I am passionate about Web Dev, Mainframe, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br /><br>
+🎓 I’m a junior pursuing my bachelor's in Computer Science & Engineering.<br/>
+👩‍💻I am passionate about Web Dev, Mainframe, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br /><br>
 Its well said that:
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
