@@ -28,7 +28,8 @@ Its well said that:
 </p>
 
 Cheers!
-<p align="center"><img src =https://icongr.am/devicon/vuejs-original-wordmark.svg?size=128&color=currentColor alt = vuejs width="40" height ="40">
+<p align="center">Familiar Tech Stacks <br />
+ <img src =https://icongr.am/devicon/vuejs-original-wordmark.svg?size=128&color=currentColor alt = vuejs width="40" height ="40">
  <img src=https://icongr.am/devicon/react-original.svg?size=128&color=currentColor alt=react width="40" height="40"/> 
  <img src=https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor alt=css3 width="40" height="40"/> 
  <img src=https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor alt=html5 width="40" height="40"/> 
@@ -37,7 +38,8 @@ Cheers!
  <img src=https://icongr.am/devicon/python-original.svg?size=128&color=currentColor alt=python width="50" height="50"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" />
+
+<div align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" />
 </div>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&theme=tokyonight" alt="akanksha-raghav" />
+<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&theme=tokyonight" alt="akanksha-raghav" />
  </div>
