@@ -37,4 +37,7 @@ Cheers!
  <img src=https://icongr.am/devicon/python-original.svg?size=128&color=currentColor alt=python width="50" height="50"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" />
+</div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&theme=tokyonight" alt="akanksha-raghav" />
+ </div>
