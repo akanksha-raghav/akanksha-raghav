@@ -39,5 +39,5 @@ Cheers!
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
 <br />
-<div align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" />
-<div align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&theme=tokyonight" alt="akanksha-raghav" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&theme=tokyonight" alt="akanksha-raghav" />
