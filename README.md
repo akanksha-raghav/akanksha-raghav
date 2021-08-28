@@ -3,8 +3,8 @@
 </div>
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
-Hi!👋 I am Akanksha Raghav.<br>
-🎓 I’m a junior pursuing my bachelor's in Computer Science & Engineering.<br/>
+### Hi! I am Akanksha Raghav.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
+🎓 I’m a senior pursuing my bachelor's in Computer Science & Engineering.<br/>
 👩‍💻I am passionate about Web Dev, Mainframe, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br /><br>
 Its well said that:
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
@@ -26,18 +26,22 @@ Its well said that:
     <img src="https://img.shields.io/badge/akanksha15-30302f?style=flat&logo=dev.to">
   </a>
 </p>
+## Tools & Technologies :computer:
 
-Cheers!
-<p align="center">Familiar Tech Stacks <br />
- <img src =https://icongr.am/devicon/vuejs-original-wordmark.svg?size=128&color=currentColor alt = vuejs width="40" height ="40">
- <img src=https://icongr.am/devicon/react-original.svg?size=128&color=currentColor alt=react width="40" height="40"/> 
- <img src=https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor alt=css3 width="40" height="40"/> 
- <img src=https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor alt=html5 width="40" height="40"/> 
- <img src=https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor width="40" height="40"/> 
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/> 
- <img src=https://icongr.am/devicon/python-original.svg?size=128&color=currentColor alt=python width="50" height="50"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
-<br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true" alt="akanksha-raghav" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&theme=tokyonight" alt="akanksha-raghav" />
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+## My GitHub Stats ⚡
+
+![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+
+## Top Langauges 👩‍💻
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&hide=TeX&layout=compact)
+ 
+## To know more about me :octocat:
+ :point_right:  <a href="https://akanksha-raghav.github.io/">akanksha-raghav.github.io</a>
