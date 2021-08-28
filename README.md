@@ -26,6 +26,7 @@ Its well said that:
     <img src="https://img.shields.io/badge/akanksha15-30302f?style=flat&logo=dev.to">
   </a>
 </p>
+
 ## Tools & Technologies :computer:
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -34,6 +35,7 @@ Its well said that:
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+
 ## My GitHub Stats ⚡
 
 ![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
