@@ -3,7 +3,7 @@
 </div>
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
-### Hi! I am Akanksha Raghav.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
+Hi! I am Akanksha Raghav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 🎓 I’m a senior pursuing my bachelor's in Computer Science & Engineering.<br/>
 👩‍💻I am passionate about Web Dev, Mainframe, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br /><br>
 Its well said that:
