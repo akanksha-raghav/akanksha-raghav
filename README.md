@@ -46,5 +46,5 @@ Its well said that:
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&hide=TeX&layout=compact)
  
-## To know more about me<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="25px"> :octocat:
+## To know more about me<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="55px"> 
  :point_right:  <a href="https://akanksha-raghav.github.io/">akanksha-raghav.github.io</a>
