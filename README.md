@@ -6,7 +6,7 @@
 
 ### Hey there, I'm Akanksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🎓 I’m a senior pursuing my bachelor's in Computer Science & Engineering.<br/>
+🎓 I’m a Programmer Analyst Trainee at Cognizant.<br/>
 👩‍💻I am passionate about Web Dev, Mainframe, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br /><br>
 Its well said that:
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
@@ -15,7 +15,7 @@ Its well said that:
  📫Connect with me here:<br />
  <br />
  <p>
-  <a href="https://www.linkedin.com/in/akanksha-raghav-386938188/">
+  <a href="https://www.linkedin.com/in/akanksha-raghav/">
     <img src="https://img.shields.io/badge/akanksha-raghav-386938188?style=flat&logo=linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/AkankshaRaghav9">
@@ -27,6 +27,10 @@ Its well said that:
  <a href="https://dev.to/akanksha15">
     <img src="https://img.shields.io/badge/akanksha15-30302f?style=flat&logo=dev.to">
   </a>
+   <a href="https://akanksha-raghav.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-30302f?style=flat&logo=portfolio">
+  </a>
+
 </p>
 
 ## Tools & Technologies :computer:
