@@ -6,13 +6,7 @@
 
 ### Hey there, I'm Akanksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🎓 I’m a Programmer Analyst Trainee at Cognizant.<br/>
-👩‍💻I am passionate about Web Dev, Mainframe, & I enjoy learning new things exploring new technologies and leverage them to solve real-life problems. I tend to discover ways to apply my knowledge.<br /><br>
-Its well said that:
-“Learning never exhausts the mind.” – Leonardo da Vinci <br />
-👨‍💻Let's Learn and grow<br />
-⚡ Fun fact: I have a secret collection of ancient coins. <br />
- 📫Connect with me here:<br />
+I develop software, build technical communities, create content and love meeting new people!
  <br />
  <p>
   <a href="https://www.linkedin.com/in/akanksha-raghav/">
@@ -32,15 +26,6 @@ Its well said that:
   </a>
 
 </p>
-
-## Tools & Technologies :computer:
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
 ## My GitHub Stats ⚡
 
