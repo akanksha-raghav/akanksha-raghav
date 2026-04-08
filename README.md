@@ -6,15 +6,11 @@
 
 ### Hey there, I'm Akanksha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I develop software, build technical communities, create content and love meeting new people!
- <br />
+I build reliable, production-grade AI systems using LLMs — focused on accuracy, evaluation, and real-world impact. <br />
  <p>
   <a href="https://www.linkedin.com/in/akanksha-raghav/">
     <img src="https://img.shields.io/badge/akanksha-raghav-386938188?style=flat&logo=linkedin">
-  </a> &nbsp; 
-  <a href="https://twitter.com/AkankshaRaghav9">
-    <img src="https://img.shields.io/badge/@AkankshaRaghav9-30302f?style=flat&logo=twitter">
-  </a>
+  </a> &nbsp;
  <a href="https://medium.com/@akanksharaghav">
     <img src="https://img.shields.io/badge/akanksharaghav-30302f?style=flat&logo=medium">
   </a>
