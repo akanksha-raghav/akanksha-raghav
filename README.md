@@ -39,10 +39,10 @@ I am an **Applied AI Engineer and Backend Developer** bridging the gap between s
 ---
 
 ## My GitHub Stats ⚡
-![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanksha-raghav&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Akanksha's GitHub stats](https://github-stats-extended.vercel.app/api?username=akanksha-raghav&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 ## Top Languages 👩‍💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-raghav&hide=TeX&layout=compact&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=akanksha-raghav&hide=TeX&layout=compact&theme=radical)
 
 ## To know more about me
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="40px" alt="Handshake"> 👉 [akanksha-raghav.github.io](https://akanksha-raghav.github.io/)
